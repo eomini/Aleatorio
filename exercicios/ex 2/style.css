@@ -1,0 +1,115 @@
+@font-face {
+    font-family: fonte;
+    src: url(Inter/Inter-Italic-VariableFont_opsz\,wght.ttf);
+}
+
+
+
+body{
+    background-color: rgb(26, 23, 23);
+    font-family: fonte;
+    color: white;
+}
+
+section{
+    background-color: rgb(80, 75, 75);
+    width: 350px;
+    height: 600px;
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 25px;
+}
+
+footer{
+    text-align: center;
+}
+
+
+img{
+    width: 100px;
+    height: 100px;
+    margin-left: 117px;
+    margin-top: 40px;
+}
+
+
+h2{
+    color: rgba(255, 255, 255, 0.877);
+    text-align: center;
+}
+
+h4{
+    color: greenyellow;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+
+
+a{
+    color: white;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    padding-top: 13px;
+}
+
+
+#git{
+    background-color: rgb(65, 59, 59);
+    height: 50px;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+    
+    
+}
+
+#fron{
+    background-color: rgb(65, 59, 59);
+    height: 50px;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+    
+    
+}
+
+#linke{
+    background-color: rgb(65, 59, 59);
+    height: 50px;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+    
+    
+}
+
+#x{
+    background-color: rgb(65, 59, 59);
+    height: 50px;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+    
+    
+}
+
+#inst{
+    background-color: rgb(65, 59, 59);
+    height: 50px;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+    
+    
+}
+
+a:hover{
+    color: blue;
+    background-color: wheat;
+}
