@@ -1,0 +1,55 @@
+@font-face {
+    font-family: geral;
+    src: url(assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
+}
+
+body{
+    background-color: rgba(255, 228, 196, 0.836);
+}
+
+section{
+    background-color: white;
+    width: 550px;
+    height: 1700px;
+    margin: auto;
+    margin-top: 100px;
+    padding-left: 7px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+img{
+    width: 450px;
+    height: 200px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: left;
+    font-size: 35px;
+}
+
+#in{
+    width: 550px;
+    text-indent: 10px;
+    font-family: geral;
+    font-size: 13px;
+}
+
+#prep{
+    background-color: rgba(255, 0, 0, 0.041);
+    height: 140px;
+    width: 500px;
+    margin: auto;
+    text-align: left;
+    text-indent: 16px;
+    line-height: 28px;
+    font-family: geral;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.76);
+}
+
+#prep>h3{
+    color: rgb(170, 5, 82);
+}
