@@ -3,6 +3,11 @@
     src: url(assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
 }
 
+@font-face {
+    font-family: g2;
+    src: url(assets/fonts/young-serif/YoungSerif-Regular.ttf);
+}
+
 body{
     background-color: rgba(255, 228, 196, 0.836);
 }
@@ -28,6 +33,7 @@ img{
 h1{
     text-align: left;
     font-size: 35px;
+    text-indent: 20px;
 }
 
 #in{
@@ -53,3 +59,38 @@ h1{
 #prep>h3{
     color: rgb(170, 5, 82);
 }
+
+#ing{
+    text-align: left;
+    text-indent: 20px;
+    line-height: 30px;
+}
+
+h2{
+    color: brown;
+    font-size: 30px;
+    font-family: geral;
+    text-align: left;
+    text-indent: 20px;
+}
+
+ol>li{
+    text-indent: 20px;
+    padding-bottom: 30px;
+    font-size: 16px;
+}
+
+strong{
+    color: rgb(126, 22, 22);
+    
+}
+
+/* nesse strong fiz uma enjennhoca pq sei como faz a tabela do ex n */
+
+
+
+
+
+
+
+
